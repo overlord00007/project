@@ -1,0 +1,22 @@
+# Ignore Python virtual env
+venv/
+*.pyc
+__pycache__/
+
+# Ignore model folders
+models/**/pytorch_model.bin
+models/**/model.safetensors
+models/**/tf_model.h5
+
+# Ignore caches
+.cache/
+huggingface/
+**/tmp/
+*.zip
+
+# Ignore logs
+logs/
+*.log
+
+# Ignore temporary files
+.DS_Store

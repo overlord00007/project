@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+torch
+transformers
+datasets
+scikit-learn
+nltk
+emoji
+pydantic
+numpy
+scipy
+wordcloud
+matplotlib
